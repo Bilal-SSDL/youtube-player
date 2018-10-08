@@ -1,0 +1,29 @@
+/* ul {
+    list-style-type: none;
+}
+
+ul li {
+   display: inline;
+   padding: 10px; 
+} */
+
+/* #topContainer{
+    display: flex;
+    flex-direction: row;
+  } */
+
+#abc ul {
+    float: right;
+}
+.video-head img {
+    width: 100%;
+}
+.row {
+    margin-right: 0 !important; 
+    margin-left: 0 !important; 
+}
+.center-div {
+    width: 83%;
+    float: right;
+    box-sizing: border-box;
+}
